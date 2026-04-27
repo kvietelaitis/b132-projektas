@@ -1,6 +1,13 @@
 openf1_data
 f1_data
 
+*.joblib
+*.keras
+*.h5
+
+# Jupyter noise
+.ipynb_checkpoints/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
