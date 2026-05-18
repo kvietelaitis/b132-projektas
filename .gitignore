@@ -1,5 +1,6 @@
 openf1_data
 f1_data
+fastf1_cache
 
 *.joblib
 *.keras
